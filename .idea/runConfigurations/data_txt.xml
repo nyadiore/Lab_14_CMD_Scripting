@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="data.txt" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="FileScan" />
+    <module name="Lab_14_CMD_Scripting" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
